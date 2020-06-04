@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\bin\Debug\netcoreapp3.1\Polimorfismo - exercicio.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\bin\Debug\netcoreapp3.1\Polimorfismo - exercicio.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\bin\Debug\netcoreapp3.1\Polimorfismo - exercicio.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\bin\Debug\netcoreapp3.1\Polimorfismo - exercicio.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\bin\Debug\netcoreapp3.1\Polimorfismo - exercicio.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\bin\Debug\netcoreapp3.1\Polimorfismo - exercicio.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Polimorfismo - exercicio\obj\Debug\netcoreapp3.1\Polimorfismo - exercicio.genruntimeconfig.cache
